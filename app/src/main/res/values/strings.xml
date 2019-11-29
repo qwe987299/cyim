@@ -4,4 +4,14 @@
     <string name="hsiuliliao">廖秀莉</string>
     <string name="vandy">劉士豪</string>
     <string name="chlai">賴錦慧</string>
+    <string name="chlai_text">職稱：副教授\n
+電子信箱：chlai@cycu.edu.tw\n
+學歷：國立交通大學資訊管理博士\n
+研究室：資管303D\n
+分機：5413\n
+專長：資料探勘、文字探勘、大數據分析、推薦系統、機器學習、資訊檢索、社群網路分析\n
+研究成果：\n
+個人研究成果、Sedona CV\n
+個人網頁：http://chlai.im.cycu.edu.tw/\n
+    </string>
 </resources>

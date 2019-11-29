@@ -13,4 +13,15 @@
         android:src="@drawable/chlai"
         android:scaleType="centerCrop"/>
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#BE000000"
+        android:padding="15dp"
+        android:text="@string/chlai_text"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
+
 </RelativeLayout>
